@@ -1,0 +1,9 @@
+patient_id,name,age,gender,diagnosis,medications,lab_results
+P001,Aisha Patel,58,Female,Type 2 Diabetes; Hypertension,"Metformin 500mg twice daily, Lisinopril 10mg once daily","HbA1c: 8.2%, BP: 148/92 mmHg, eGFR: 62 mL/min/1.73m2, LDL: 118 mg/dL"
+P002,Carlos Rivera,72,Male,Chronic Heart Failure; Atrial Fibrillation,"Furosemide 40mg once daily, Warfarin 5mg once daily, Carvedilol 6.25mg twice daily","BNP: 820 pg/mL, INR: 2.8, K+: 3.4 mEq/L, Creatinine: 1.6 mg/dL"
+P003,Mei Lin,45,Female,Rheumatoid Arthritis; Osteoporosis,"Methotrexate 15mg weekly, Folic acid 1mg daily, Calcium 600mg twice daily","ESR: 62 mm/hr, CRP: 14 mg/L, Vitamin D: 18 ng/mL, CBC: WBC 3.8 K/uL"
+P004,Samuel Okonkwo,66,Male,COPD (Stage III); Type 2 Diabetes,"Tiotropium inhaler 18mcg once daily, Metformin 1000mg twice daily, Prednisolone 10mg (active course)","FEV1: 42% predicted, SpO2: 91%, HbA1c: 7.9%, Blood glucose: 178 mg/dL"
+P005,Ingrid Hoffmann,53,Female,Breast Cancer (Stage II post-surgery); Depression,"Tamoxifen 20mg daily, Sertraline 50mg daily","CA 15-3: 28 U/mL, ALT: 34 U/L, TSH: 2.1 mIU/L, CBC: WBC 4.2 K/uL Hgb 11.8 g/dL"
+P006,Rajiv Sharma,61,Male,Chronic Kidney Disease (Stage 3b); Hypertension; Dyslipidemia,"Amlodipine 5mg once daily, Atorvastatin 40mg once daily, Sodium bicarbonate 650mg twice daily","eGFR: 34 mL/min/1.73m2, Creatinine: 2.1 mg/dL, K+: 5.2 mEq/L, Phosphorus: 4.8 mg/dL, LDL: 92 mg/dL"
+P007,Elena Vasquez,38,Female,Epilepsy; Pregnancy (28 weeks),"Lamotrigine 200mg twice daily, Folic acid 5mg daily","Lamotrigine level: 4.2 mcg/mL, CBC normal, Ultrasound: fetal growth appropriate"
+P008,David Kim,79,Male,Parkinson's Disease; Dementia; Hypertension,"Levodopa/Carbidopa 25/100mg three times daily, Donepezil 10mg at night, Amlodipine 5mg once daily","MoCA: 14/30, BP: 136/84 mmHg, Renal function normal, ECG: normal sinus rhythm"
